@@ -1,5 +1,5 @@
 # desafioPokemon
-Desafio Pokemon - Online Applications 
+Desafio Pokemon
 
 Passo a passo para executar a aplicação:
 
